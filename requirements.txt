@@ -1,0 +1,4 @@
+# Only used by Vercel's Python runtime. Docker/Heroku use backend/requirements.txt.
+fastapi==0.115.6
+pandas==2.2.3
+requests==2.32.3

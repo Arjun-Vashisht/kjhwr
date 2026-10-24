@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      # so a snapshot fetched inside the container lands in the repo
+      - ./backend/data:/app/data
