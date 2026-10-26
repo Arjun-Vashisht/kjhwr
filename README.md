@@ -7,8 +7,9 @@ so wind can be netted off demand with a sensible error margin.
 Scope is January 2026 purchase decisions (delivery days 2 Jan to 1 Feb), using only Elexon's
 FUELHH (actual wind) and WINDFOR (wind forecast) datasets.
 
-- **Live app:** _add your Heroku / Vercel URL here_
-- **Video walkthrough:** _add your unlisted YouTube link here_
+- **Live app:** https://windcast-livid.vercel.app/
+- **Video walkthrough:** 
+https://youtu.be/iJ640JZ-yn0?si=C5hWqNyhRz1LgNTd
 
 ## What's in it
 
